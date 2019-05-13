@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\1\desktop\c++\проекты\specify\specify\source.cpp(14): warning C4101: iisu: неиспользованная локальная переменная
+c:\users\1\desktop\c++\проекты\specify\specify\source.cpp(16): warning C4101: iil: неиспользованная локальная переменная
+c:\users\1\desktop\c++\проекты\specify\specify\source.cpp(18): warning C4101: iilu: неиспользованная локальная переменная
+c:\users\1\desktop\c++\проекты\specify\specify\source.cpp(12): warning C4101: iis: неиспользованная локальная переменная
+  Specify.vcxproj -> C:\Users\1\Desktop\C++\проекты\Specify\Debug\Specify.exe
